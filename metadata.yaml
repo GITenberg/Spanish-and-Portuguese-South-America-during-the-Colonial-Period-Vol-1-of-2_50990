@@ -1,10 +1,16 @@
 _repo: Spanish-and-Portuguese-South-America-during-the-Colonial-Period-Vol-1-of-2_50990
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50990-h/images/cover.jpg
 creator:
   author:
     agent_name: Watson, Robert Grant
     gutenberg_agent_id: '46186'
     url: http://www.gutenberg.org/2009/agents/46186
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50990#Spanish-and-Portuguese-South-America-during-the-Colonial-Period-Vol-1-of-2
 gutenberg_issued: '2016-01-21'
 gutenberg_type: Text
 identifiers:
